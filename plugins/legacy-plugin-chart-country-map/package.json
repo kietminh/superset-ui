@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/apache-superset/superset-ui/issues"
   },
-  "homepage": "https://github.com/apache-superset/superset-ui#readme",
+  "homepage": "https://github.com/kietminh/superset-ui#readme",
   "publishConfig": {
     "access": "public"
   },

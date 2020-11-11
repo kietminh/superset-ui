@@ -30,6 +30,7 @@ import zambia from 'file-loader!./countries/zambia.geojson';
 
 const countries = {
   belgium,
+  vietnam,
   brazil,
   bulgaria,
   canada,
